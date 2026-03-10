@@ -1,4 +1,4 @@
---all loan records in the dataset
+--All Records in Dataset
 SELECT * FROM financial_loan;
 
 --Total Loans Application
