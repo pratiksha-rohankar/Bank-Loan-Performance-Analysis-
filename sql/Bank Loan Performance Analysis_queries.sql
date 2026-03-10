@@ -82,7 +82,7 @@ SELECT
 COUNT(id) AS Bad_Loan_Percentage
 FROM financial_loan;
 
---Bad Loab application
+--Bad Loan application
 SELECT
 COUNT(id) AS Bad_Loan_Applications
 FROM financial_loan
