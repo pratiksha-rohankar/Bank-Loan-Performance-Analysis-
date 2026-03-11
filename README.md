@@ -14,6 +14,14 @@ The dataset contains 38,567 loan records. SQL was used to explore and analyze th
 ## Dataset
 The dataset contains 38,567 Loan Records including information about Loan Amount, Interest Rate, Borrower Income, and Loan Status.
 
+**Loan Portfolio Summary Dashboard**
+This dashboard focuses on loan quality and risk by comparing good loans and bad loans.
+- Percentage of good vs bad loans
+- Total funded amount for good and bad loans
+- Loan repayment amounts
+- Loan status breakdown (Fully Paid, Charged Off, Current)
+![Bank Loan Summary Dashboard](dashboard/bank_loan_summary_dashboard.png)
+
 **Loan Portfolio Overview Dashboard**
 This dashboard shows the overall performance of the loan portfolio, including total loan applications, funded amount, total received amount, interest rate, and debt-to-income ratio.
 It also highlights trends such as:
@@ -24,15 +32,9 @@ It also highlights trends such as:
 - Loan amount distribution based on employment length and home ownership
 ![Bank Loan Overview Dashboard](dashboard/bank_loan_overview_dashboard.png)
 
+**Loan Portfolio Detail Dashboard**
 
-**Loan Portfolio Summary Dashboard**
-This dashboard focuses on loan quality and risk by comparing good loans and bad loans.
-- Percentage of good vs bad loans
-- Total funded amount for good and bad loans
-- Loan repayment amounts
-- Loan status breakdown (Fully Paid, Charged Off, Current)
-![Bank Loan Summary Dashboard](dashboard/bank_loan_summary_dashboard.png)
-
+![Bank Loan Detail Dashboard](dashboard/bank_loan_detail_dashboard.png)
 
 ## Key KPIs
 - Total Loan Applications: 38.6K
