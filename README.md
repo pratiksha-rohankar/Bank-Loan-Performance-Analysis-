@@ -29,6 +29,7 @@ This dashboard focuses on **loan quality and risk** by comparing good loans and 
 - Total funded amount for good and bad loans
 - Loan repayment amounts
 - Loan status breakdown (Fully Paid, Charged Off, Current)
+  
 ![Bank Loan Summary Dashboard](dashboard/bank_loan_summary_dashboard.png)
 
 ### Loan Portfolio Overview Dashboard
@@ -39,6 +40,7 @@ It also highlights trends such as:
 - Loan term comparison (36 vs 60 months)
 - Loan purpose analysis
 - Loan amount distribution based on employment length and home ownership
+  
 ![Bank Loan Overview Dashboard](dashboard/bank_loan_overview_dashboard.png)
 
 ### Loan Portfolio Detail Dashboard
@@ -54,6 +56,7 @@ Also, it provides detailed information for each loan record, including:
 - Installment Amount
 - Total Amount Received
 This detailed view helps in **analyzing individual loans, identifying patterns in borrower profiles, and understanding how different loan attributes relate to repayment behavior and loan risk**.
+
 ![Bank Loan Detail Dashboard](dashboard/bank_loan_detail_dashboard.png)
 
 ###  Power BI Dashboard File
