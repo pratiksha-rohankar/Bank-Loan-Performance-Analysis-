@@ -76,6 +76,7 @@ It also highlights trends such as:
 - **sql/** – SQL queries used for data analysis
 - **dashboard/** – Power BI dashboard screenshot
 - **reports/** – SQL query results with screenshots
+- **presentation/** – project presentation slides
 
 ## Skills Used
 - SQL data analysis
