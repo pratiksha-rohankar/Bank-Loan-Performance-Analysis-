@@ -1,5 +1,7 @@
 # Bank Loan Performance Analysis
-Bank Loan Performance Analysis using SQL and Power BI
+In this project, I analyzed a retail bank loan dataset to understand loan performance, portfolio risk, and repayment behavior.
+The goal was to identify trends in loan applications, funded amounts, repayments, and risky loans.
+I used SQL for data analysis and Power BI to build interactive dashboards that help visualize loan performance and risk indicators.
 
 ## Project Overview
 This project analyzes Bank Loan data to understand Loan Performance, Repayment Behavior, and Potential Risk Factors.
@@ -11,6 +13,23 @@ The dataset contains 38,567 loan records. SQL was used to explore and analyze th
 
 ## Dataset
 The dataset contains 38,567 Loan Records including information about Loan Amount, Interest Rate, Borrower Income, and Loan Status.
+
+**Loan Portfolio Overview Dashboard**
+This dashboard shows the overall performance of the loan portfolio, including total loan applications, funded amount, total received amount, interest rate, and debt-to-income ratio.
+It also highlights trends such as:
+- Monthly loan repayment trends
+- Loan distribution by state
+- Loan term comparison (36 vs 60 months)
+- Loan purpose analysis
+- Loan amount distribution based on employment length and home ownership
+![Retail Risk Drivers Dashboard](dashboard/retail_risk_drivers_dashboard.png)
+
+**Loan Portfolio Summary Dashboard**
+This dashboard focuses on loan quality and risk by comparing good loans and bad loans.
+- Percentage of good vs bad loans
+- Total funded amount for good and bad loans
+- Loan repayment amounts
+- Loan status breakdown (Fully Paid, Charged Off, Current)
 
 ## Key KPIs
 - Total Loan Applications: 38.6K
