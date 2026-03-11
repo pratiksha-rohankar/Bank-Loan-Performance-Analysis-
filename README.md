@@ -23,7 +23,7 @@ It also highlights trends such as:
 - Loan purpose analysis
 - Loan amount distribution based on employment length and home ownership
 ![Retail Risk Drivers Dashboard](dashboard/retail_risk_drivers_dashboard.png)
-![Bank_Loan_Performance_Analysis_dashboard](dashboard/
+
 
 **Loan Portfolio Summary Dashboard**
 This dashboard focuses on loan quality and risk by comparing good loans and bad loans.
@@ -31,7 +31,7 @@ This dashboard focuses on loan quality and risk by comparing good loans and bad 
 - Total funded amount for good and bad loans
 - Loan repayment amounts
 - Loan status breakdown (Fully Paid, Charged Off, Current)
-![Bank_Loan_Performance_Analysis_dashboard](dashboard/Bank Loan Performance Summary Dashboard.png).
+
 ## Key KPIs
 - Total Loan Applications: 38.6K
 - Total Funded Amount: $435.8M
