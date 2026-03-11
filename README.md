@@ -23,7 +23,7 @@ The dataset includes 38,567 loan records containing information about:
 ## Dashboard
 I built this Power BI dashboard Summarizes **Loan Applications, Funded Amounts, Repayment Performance, and Risk Indicators**.
 
-**Loan Portfolio Summary Dashboard**
+### Loan Portfolio Summary Dashboard
 This dashboard focuses on **loan quality and risk** by comparing good loans and bad loans.
 - Percentage of good vs bad loans
 - Total funded amount for good and bad loans
@@ -31,7 +31,7 @@ This dashboard focuses on **loan quality and risk** by comparing good loans and 
 - Loan status breakdown (Fully Paid, Charged Off, Current)
 ![Bank Loan Summary Dashboard](dashboard/bank_loan_summary_dashboard.png)
 
-**Loan Portfolio Overview Dashboard**
+### Loan Portfolio Overview Dashboard
 This dashboard shows the **overall performance of the loan portfolio**, including Total Loan Applications, Funded Amount, Total Received Amount, Interest Rate, and Debt-to-Income Ratio.
 It also highlights trends such as:
 - Monthly loan repayment trends
@@ -41,7 +41,7 @@ It also highlights trends such as:
 - Loan amount distribution based on employment length and home ownership
 ![Bank Loan Overview Dashboard](dashboard/bank_loan_overview_dashboard.png)
 
-**Loan Portfolio Detail Dashboard**
+### Loan Portfolio Detail Dashboard
 I built this dashboard to provides a **detailed view of individual loan records** in the portfolio. It allows users to explore loan data at a more granular level and understand borrower characteristics and loan terms.
 Also, it provides detailed information for each loan record, including:
 - Loan ID
