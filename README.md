@@ -56,6 +56,10 @@ Also, it provides detailed information for each loan record, including:
 This detailed view helps in **analyzing individual loans, identifying patterns in borrower profiles, and understanding how different loan attributes relate to repayment behavior and loan risk**.
 ![Bank Loan Detail Dashboard](dashboard/bank_loan_detail_dashboard.png)
 
+###  Power BI Dashboard File
+You can download the Power BI dashboard used in this project below:
+[Download Power BI File](reports/reports/Bank_Loan_Performance_Analysis.pbix).
+
 ## Key KPIs
 - Total Loan Applications: **38.6K**
 - Total Funded Amount: **$435.8M**
