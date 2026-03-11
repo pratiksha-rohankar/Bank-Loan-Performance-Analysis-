@@ -22,8 +22,7 @@ It also highlights trends such as:
 - Loan term comparison (36 vs 60 months)
 - Loan purpose analysis
 - Loan amount distribution based on employment length and home ownership
-![Bank Loan Performance Analysis](dashboard/Bank_Loan_Performance_Analysis.pbix)
-
+![Bank Loan Performance Overview Dashboard](dashboard/Bank_Loan_Performance_Overview_Dashboard.png)
 
 **Loan Portfolio Summary Dashboard**
 This dashboard focuses on loan quality and risk by comparing good loans and bad loans.
