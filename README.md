@@ -22,7 +22,7 @@ It also highlights trends such as:
 - Loan term comparison (36 vs 60 months)
 - Loan purpose analysis
 - Loan amount distribution based on employment length and home ownership
-![Retail Risk Drivers Dashboard](dashboard/retail_risk_drivers_dashboard.png)
+![Bank Loan Performance Analysis](dashboard/Bank_Loan_Performance_Analysis.pbix)
 
 
 **Loan Portfolio Summary Dashboard**
@@ -31,6 +31,7 @@ This dashboard focuses on loan quality and risk by comparing good loans and bad 
 - Total funded amount for good and bad loans
 - Loan repayment amounts
 - Loan status breakdown (Fully Paid, Charged Off, Current)
+
 
 ## Key KPIs
 - Total Loan Applications: 38.6K
