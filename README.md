@@ -42,7 +42,18 @@ It also highlights trends such as:
 ![Bank Loan Overview Dashboard](dashboard/bank_loan_overview_dashboard.png)
 
 **Loan Portfolio Detail Dashboard**
-
+I built this dashboard to provides a **detailed view of individual loan records** in the portfolio. It allows users to explore loan data at a more granular level and understand borrower characteristics and loan terms.
+Also, it provides detailed information for each loan record, including:
+- Loan ID
+- Loan Purpose
+- Home Ownership
+- Loan Grade and Sub-Grade
+- Issue Date (Year, Month, Day)
+- Funded Amount
+- Interest Rate
+- Installment Amount
+- Total Amount Received
+This detailed view helps in **analyzing individual loans, identifying patterns in borrower profiles, and understanding how different loan attributes relate to repayment behavior and loan risk**.
 ![Bank Loan Detail Dashboard](dashboard/bank_loan_detail_dashboard.png)
 
 ## Key KPIs
