@@ -23,7 +23,7 @@ It also highlights trends such as:
 - Loan purpose analysis
 - Loan amount distribution based on employment length and home ownership
 ![Retail Risk Drivers Dashboard](dashboard/retail_risk_drivers_dashboard.png)
-
+![Bank_Loan_Performance_Analysis_dashboard](dashboard/
 **Loan Portfolio Summary Dashboard**
 This dashboard focuses on loan quality and risk by comparing good loans and bad loans.
 - Percentage of good vs bad loans
