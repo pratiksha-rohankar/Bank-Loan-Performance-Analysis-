@@ -61,7 +61,7 @@ This detailed view helps in **analyzing individual loans, identifying patterns i
 
 ###  Power BI Dashboard File
 You can download the Power BI dashboard used in this project below:
-[Download Power BI File](reports/reports/Bank_Loan_Performance_Analysis.pbix).
+[Download Power BI File](reports/Bank_Loan_Performance_Analysis.pbix).
 
 ## Key KPIs
 - Total Loan Applications: **38.6K**
