@@ -46,11 +46,11 @@ It also highlights trends such as:
 ![Bank Loan Detail Dashboard](dashboard/bank_loan_detail_dashboard.png)
 
 ## Key KPIs
-- Total Loan Applications:**38.6K**
-- Total Funded Amount:**$435.8M**
-- Total Received Amount:**$473.1M**
-- Average Interest Rate:**12.0%**
-- Average Debt-to-Income (DTI):**13.3%**
+- Total Loan Applications: **38.6K**
+- Total Funded Amount: **$435.8M**
+- Total Received Amount: **$473.1M**
+- Average Interest Rate: **12.0%**
+- Average Debt-to-Income (DTI): **13.3%**
 
 ## Key Insights
 - The bank processed around 38.6K loan applications, with a total funded amount of **$435.8M**.
