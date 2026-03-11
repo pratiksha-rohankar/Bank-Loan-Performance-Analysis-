@@ -6,7 +6,7 @@ I used SQL for data analysis and Power BI to build interactive dashboards that h
 ## Project Overview
 This project analyzes Bank Loan data to understand Loan Performance, Repayment Behavior, and Potential Risk Factors.
 The dataset contains 38,567 loan records. SQL was used to explore and analyze the data, and Power BI was used to build an interactive dashboard to monitor loan performance.
-
+![Bank Loan Performance Overview Dashboard](dashboard/Bank%20Loan%20Performance%20Overview%20Dashboard.png)
 ## Tools Used
 - SQL – data querying and analysis
 - Power BI – dashboard creation and data visualization
@@ -22,7 +22,7 @@ It also highlights trends such as:
 - Loan term comparison (36 vs 60 months)
 - Loan purpose analysis
 - Loan amount distribution based on employment length and home ownership
-![Bank Loan Performance Overview Dashboard](dashboard/Bank_Loan_Performance_Overview_Dashboard.png)
+
 
 **Loan Portfolio Summary Dashboard**
 This dashboard focuses on loan quality and risk by comparing good loans and bad loans.
